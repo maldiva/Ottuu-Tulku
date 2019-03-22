@@ -9,7 +9,7 @@ If you want to try it out, you will need:
 * Common Voice (Not necessary to launch the program, but you might want your own voice recordings) - voice.mozilla.org 
 We recommend to use Unity 2018.3.5f1 or higher version to avoid incompatibility.
 You will also have to get your own license key from Vuforia. 
-A piece of documentation on that topic - www.docs.unity3d.com/Manual/vuforia_get_started_project_setup
+A piece of documentation on that topic - https://docs.unity3d.com/Manual/vuforia_get_started_project_setup
 
 # There is still so much to do
 
