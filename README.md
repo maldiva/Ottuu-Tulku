@@ -19,6 +19,6 @@ We can make it much better by donating our voice to the project. Common Voice st
 Our Hackathon team: 
 Vladislav Pak
 Nikolai Kolomeitsev
-Isa Zhanbolot uulu - github.com/juisa
-Erkinbek Alimbekov - github.com/alimbekovE
-Kirill Likhovod - github.com/navigante
+Isa Zhanbolot uulu - www.github.com/juisa
+Erkinbek Alimbekov - www.github.com/alimbekovE
+Kirill Likhovod - www.github.com/navigante
