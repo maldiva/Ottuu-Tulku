@@ -9,15 +9,15 @@ When you choose "Jomok" option you will need to find trigger and then press a "S
 If you want to try it out, you will need: 
 * Unity - https://unity.com/
 * Vuforia - https://www.vuforia.com/
-* Common Voice (Not necessary to launch the program, but you might want your own voice recordings) - voice.mozilla.org 
+* Common Voice (Not necessary to launch the program, but you might want your own voice recordings) - voice.mozilla.org <br>
 We recommend to use Unity 2018.3.5f1 or higher version to avoid incompatibility.
-You will also have to get your own license key from Vuforia. 
-A piece of documentation on that topic - https://docs.unity3d.com/Manual/vuforia_get_started_project_setup
-Also if you are having a hard time with setting up an Android build, here is documentation and a video tutorial for that:
-https://unity3d.com/ru/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing
-https://youtu.be/1yLDxIMuRlo
-We haven't tested this app for iOS, but you still can try it yourself:
-https://unity3d.com/ru/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing
+You will also have to get your own license key from Vuforia. <br>
+A piece of documentation on that topic - https://docs.unity3d.com/Manual/vuforia_get_started_project_setup <br>
+Also if you are having a hard time with setting up an Android build, here is documentation and a video tutorial for that: <br>
+https://unity3d.com/ru/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing <br>
+https://youtu.be/1yLDxIMuRlo <br>
+We haven't tested this app for iOS, but you still can try it yourself: <br>
+https://unity3d.com/ru/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing <br>
 
 # There is still so much to do
 
