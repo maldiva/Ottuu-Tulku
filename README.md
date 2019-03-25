@@ -19,6 +19,10 @@ https://youtu.be/1yLDxIMuRlo <br>
 We haven't tested this app for iOS, but you still can try it yourself: <br>
 https://unity3d.com/ru/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing <br>
 
+
+# Usage
+Once you builded the project for your phone and downloaded it, you will have two options, pretty simple in usage. Ottuu Tulku might only require an internet connection and camera access. Once you choose 'Jomok' option, you will have to focus your camera on a trigger, and once you see the scene, you can click start button. In the dictation test option, we recommend to use a headset for better experience. Once you start the test, you will hear the text, which you have to type up in Kyrgyz cyrillic alphabet. We haven't added special characters from Kyrgyz language yet, but you can use your custom keyboard for them. 
+
 # There is still so much to do
 
 We have only done the least part of what we wanted to do. The Ottuu Tulku still does not have some key features implemented, but it still relies on Mozilla's voice tool kit. 
