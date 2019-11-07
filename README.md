@@ -34,4 +34,4 @@ Vladislav Pak <br>
 Nikolai Kolomeitsev <br>
 Isa Zhanbolot uulu - https://github.com/juisa <br>
 Erkinbek Alimbekov - https://github.com/alimbekovE <br>
-Kirill Likhovod - https://github.com/navigante
+Kirill Likhovod - https://github.com/maldiva
